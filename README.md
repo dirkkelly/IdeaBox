@@ -17,8 +17,7 @@ We're going to use Github to collaborate on building the IdeaBox project and fol
 
 ## Getting Started
 
-The first thing you're going to want to do is sign up for [Github](github.com/signup) which is **completely free**
-for all **"open source"** projects.
+First you'll need to sign up for [Github](github.com/signup) which is **free** for **open source** projects.
 
 **What Does Open Source Mean?**
 
