@@ -8,9 +8,14 @@ Feel free review code to implement your own solutions.
 
 ## Getting Started
 
-* Sign up for [Github](github.com/signup) _it's totataly free_
+* Sign up for [Github](github.com/signup) _it's totataly free for open source work_
 * Fork the IdeaBox project
 * Start working through the excercises
+
+## Using Cloud9
+
+* Sign up for [Cloud9](cloud9.com/signup) _it's also totally free for open source work_
+* [Running Sinatra Apps in Cloud9 IDE](https://coderwall.com/p/hngjwq)
 
 ## Copyright
 
