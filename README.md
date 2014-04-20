@@ -6,11 +6,31 @@ We're going to be following a project created by JumpStart Lab that will help yo
 
 > And let’s use it as an excuse to learn about Sinatra.
 
-> [Getting Started](http://tutorials.jumpstartlab.com/projects/idea_box.html#i0:-getting-started)
+> [Jump Start Curriculum](http://tutorials.jumpstartlab.com/projects/idea_box.html#i0:-getting-started)
+
+You're viewing this project on Github, a social network for developers from all over the world.
+
+Here they are able to share code with each other and collaborate on ways to improve projects
+of all languages and function.
+
+We're going to use Github to collaborate on building the IdeaBox project and following through the guide.
 
 ## Getting Started
 
-* Sign up for [Github](github.com/signup) _(free for Open Source)_
+The first thing you're going to want to do is sign up for [Github](github.com/signup) which is **completely free**
+for all **"open source"** projects.
+
+**What Does Open Source Mean?**
+
+> The term **"open source"** software is used by some people to mean more or less the same category as free software. 
+> It is not exactly the same class of software: they accept some licenses that we consider too restrictive, 
+> and there are free software licenses they have not accepted.
+
+> However, the differences in extension of the category are small: nearly all free software is open source,
+> and nearly all open source software is free.
+
+> — [Free Software Foundation](https://www.gnu.org/philosophy/categories.html)
+
 * Fork the IdeaBox project
 * Start working through the excercises
 
