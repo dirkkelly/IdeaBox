@@ -17,6 +17,8 @@ We're going to use Github to collaborate on building the IdeaBox project and fol
 
 ## Getting Started
 
+### 1. Sign up for Github
+
 First you'll need to sign up for [**Github**](github.com/signup) which is **free** for **open source** projects.
 
 **What Does Open Source Mean?**
@@ -29,6 +31,16 @@ First you'll need to sign up for [**Github**](github.com/signup) which is **free
 > and nearly all open source software is free.
 
 > — [Free Software Foundation](https://www.gnu.org/philosophy/categories.html)
+
+_[Get more help here](https://help.github.com/articles/signing-up-for-a-new-github-account)_
+
+### 2. Create Your Own "Fork"
+
+Github has fantastic documentation about how to use the network and how to use the underlying tool of Git.
+
+To get started you're going to want to create your own copy of this project, doing that is called **"forking"** a project.
+
+_[Read more here](https://help.github.com/articles/fork-a-repo)_
 
 * Fork the IdeaBox project
 * Start working through the excercises
