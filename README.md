@@ -52,13 +52,13 @@ To get started you're going to want to create your own copy of this project, doi
 
 [_Read more here_](https://help.github.com/articles/set-up-git)
 
-### 3. Start Working Through the Excercise
+### 4. Start Working Through the Excercise
 
 As mentioned above we're building an Idea Box, you'll be able to go through those instructions to complete the first section.
 
 [**Get Started**](http://tutorials.jumpstartlab.com/projects/idea_box.html#i0:-getting-started)
 
-### 4. Be Social
+### 5. Be Social
 
 Github is a social network and your encouraged to work with others to discuss problems and share solutions to them.
 
