@@ -32,7 +32,7 @@ First you'll need to sign up for [**Github**](github.com/signup) which is **free
 
 > — [Free Software Foundation](https://www.gnu.org/philosophy/categories.html)
 
-_[Get more help here](https://help.github.com/articles/signing-up-for-a-new-github-account)_
+[_Read more here_](https://help.github.com/articles/signing-up-for-a-new-github-account)
 
 ### 2. Create Your Own "Fork"
 
@@ -40,11 +40,11 @@ Github has fantastic documentation about how to use the network and how to use t
 
 To get started you're going to want to create your own copy of this project, doing that is called **"forking"** a project.
 
-_[Read more here](https://help.github.com/articles/fork-a-repo)_
+[_Read more here_](https://help.github.com/articles/fork-a-repo)
 
 ### 3. Set up Git
 
-_[Read more here](https://help.github.com/articles/set-up-git)_
+[_Read more here_](https://help.github.com/articles/set-up-git)
 
 ### 3. Start Working Through the Excercise
 
@@ -56,7 +56,7 @@ As mentioned above we're building an Idea Box, you'll be able to go through thos
 
 Github is a social network and your encouraged to work with others to discuss problems and share solutions to them.
 
-_[Read more here](https://help.github.com/articles/be-social)
+[_Read more here_](https://help.github.com/articles/be-social)
 
 * Start working through the excercises
 
