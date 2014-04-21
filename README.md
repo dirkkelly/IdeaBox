@@ -1,3 +1,16 @@
+## Welcome to Github!
+
+You're viewing this project on Github, a social network for developers from all over the world.
+
+Here they are able to share code with each other and collaborate on ways to improve projects
+of all languages and function.
+
+We're going to use Github to collaborate on building the IdeaBox project and following through the guide.
+
+### [YouTube Better Together - GitHub Guides Music Video](http://www.youtube.com/watch?v=qT90jZP58jM)
+
+[![Better Together - GitHub Guides Music Video](http://img.youtube.com/vi/qT90jZP58jM/0.jpg)](http://www.youtube.com/watch?v=qT90jZP58jM)
+
 ## IdeaBox
 
 We're going to be following a project created by JumpStart Lab that will help you understand the process of building a web application.
@@ -7,13 +20,6 @@ We're going to be following a project created by JumpStart Lab that will help yo
 > And let’s use it as an excuse to learn about Sinatra.
 
 > [Jump Start Curriculum](http://tutorials.jumpstartlab.com/projects/idea_box.html)
-
-You're viewing this project on Github, a social network for developers from all over the world.
-
-Here they are able to share code with each other and collaborate on ways to improve projects
-of all languages and function.
-
-We're going to use Github to collaborate on building the IdeaBox project and following through the guide.
 
 ## Getting Started
 
