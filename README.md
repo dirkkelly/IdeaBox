@@ -6,7 +6,7 @@ We're going to be following a project created by JumpStart Lab that will help yo
 
 > And let’s use it as an excuse to learn about Sinatra.
 
-> [Jump Start Curriculum](http://tutorials.jumpstartlab.com/projects/idea_box.html#i0:-getting-started)
+> [Jump Start Curriculum](http://tutorials.jumpstartlab.com/projects/idea_box.html)
 
 You're viewing this project on Github, a social network for developers from all over the world.
 
@@ -50,20 +50,13 @@ To get started you're going to want to create your own copy of this project, doi
 
 As mentioned above we're building an Idea Box, you'll be able to go through those instructions to complete the first section.
 
-#### 1. Idea Box - Getting Started
+[**Get Started**](http://tutorials.jumpstartlab.com/projects/idea_box.html#i0:-getting-started)
 
 ### 4. Be Social
 
 Github is a social network and your encouraged to work with others to discuss problems and share solutions to them.
 
 [_Read more here_](https://help.github.com/articles/be-social)
-
-* Start working through the excercises
-
-## Using Cloud9
-
-* Sign up for [Cloud9](cloud9.com/signup) _(also free for Open Source)_
-* [Running Sinatra Apps in Cloud9 IDE](https://coderwall.com/p/hngjwq)
 
 ## Copyright
 
