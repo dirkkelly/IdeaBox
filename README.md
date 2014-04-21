@@ -64,7 +64,17 @@ Github is a social network and your encouraged to work with others to discuss pr
 
 [_Read more here_](https://help.github.com/articles/be-social)
 
-## Copyright
+## License
+
+### [IdeaBox and Github](github.com/dirkkelly/IdeaBox)
+
+> [![Creative Commons License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+> [Dirk Kelly - 2014](http://tutorials.jumpstartlab.com/projects/idea_box.html)  
+
+> This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+### [IdeaBox Project Curriculum](http://tutorials.jumpstartlab.com/projects/idea_box.html)
 
 > [![Creative Commons License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)  
 
