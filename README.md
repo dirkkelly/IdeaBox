@@ -42,7 +42,22 @@ To get started you're going to want to create your own copy of this project, doi
 
 _[Read more here](https://help.github.com/articles/fork-a-repo)_
 
-* Fork the IdeaBox project
+### 3. Set up Git
+
+_[Read more here](https://help.github.com/articles/set-up-git)_
+
+### 3. Start Working Through the Excercise
+
+As mentioned above we're building an Idea Box, you'll be able to go through those instructions to complete the first section.
+
+#### 1. Idea Box - Getting Started
+
+### 4. Be Social
+
+Github is a social network and your encouraged to work with others to discuss problems and share solutions to them.
+
+_[Read more here](https://help.github.com/articles/be-social)
+
 * Start working through the excercises
 
 ## Using Cloud9
