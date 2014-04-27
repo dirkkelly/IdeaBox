@@ -45,13 +45,13 @@ Similar to Treehouse here you will be able to create your own virtual workspaces
 
 **Alernatively you can develop on your own machine**. For instructions on setting this up [_read more here_](https://help.github.com/articles/set-up-git)
 
-### 4. Start Working Through the Excercise
+### 4. Create a Project Workspace in Cloud9 IDE
 
-As mentioned above we're building an Idea Box, you'll be able to go through those instructions to complete the first section.
+### 5. Create initial Project files
 
-[**Get Started**](http://tutorials.jumpstartlab.com/projects/idea_box.html#i0:-getting-started)
+### 6. [Get Started](https://github.com/dirkkelly/IdeaBox/blob/master/INSTRUCTIONS.md)
 
-### 5. Be Social
+### 7. Be Social
 
 Github is a social network and your encouraged to work with others to discuss problems and share solutions to them.
 
