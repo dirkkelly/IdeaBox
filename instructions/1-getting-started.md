@@ -22,18 +22,20 @@ rackup
 
 ![missing config.ru](https://cloud.githubusercontent.com/assets/81055/2811881/bac3518c-ce36-11e3-982d-0992e6341e75.png)
 
-In order to start our server with `rackup` we need a simple configuration file which will tell rack which application we want to run.
-
-**Looks like we need to create a `config.ru` file**
+> 
+**config.ru not found**
 
 #### Create `config.ru`
 
+To start our server we need a configuration file, we'll leave it empty for now.
+
+```
+```
+
 ![create file](https://cloud.githubusercontent.com/assets/81055/2811901/e0d27758-ce37-11e3-8c0b-d7ebdd81ddf4.png)
 
-```
-```
 
-We'll leave the file empty for a second and see what happens.
+#### Start Your Server
 
 >
 ```
@@ -42,11 +44,12 @@ rackup
 
 ![missing run statement](https://cloud.githubusercontent.com/assets/81055/2811893/61c9f800-ce37-11e3-982a-bb6c33b14b0e.png)
 
+>
 **Missing run or map statement**
 
-We've created the file, looks like rack needs to know the name of the file though.
-
 #### Update `config.ru`
+
+We've created the config file, but rack doesn't know which app to run. Let's tell it to run **IdeaBoxApp**.
 
 ```
 run IdeaBoxApp
@@ -54,30 +57,35 @@ run IdeaBoxApp
 
 Let's tell it that we want to run an app called **IdeaBoxApp**
 
-
 >
 ```
 rackup
 ```
 
-![missing app.rb](https://cloud.githubusercontent.com/assets/81055/2811886/1d007514-ce37-11e3-9cb3-d428b8359de2.png)
+**Unitialized constant IdeaBoxApp**
 
+Still no good, looks like we need to create an application called IdeaBoxApp.
 
+#### Create The File `app.rb`
 
-**Create The File `app.rb`**
+We're going to create a really simple Sinatra application to get started.
 
 ```
-require 'bundler'
-Bundler.require
-
 class IdeaBoxApp < Sinatra::Base
-  get '/' do
-    "Hello, World!"
-  end
-
-  run! if app_file == $0
 end
 ```
+
+#### Update the file `config.ru`
+
+We need to tell rack where to find that file
+
+```
+require './app'
+
+run IdeaBoxApp
+```
+
+**Uniitialized constant Sinatra**
 
 ### Create the file  `Gemfile`
 
@@ -87,11 +95,12 @@ source 'https://rubygems.org'
 gem 'sinatra', require: 'sinatra/base'
 ```
 
+>
 ![Gemfile](https://cloud.githubusercontent.com/assets/81055/2811862/4111001a-ce35-11e3-8d97-5e270c70e672.png)
 
 _don't forget to save your file_
 
-### Download the gems
+### Download the gems with Bundler
 
 >
 ```
@@ -102,17 +111,12 @@ bundle
 
 ### Start the server from the terminal
 
->
 ```
 rackup
 ```
 
-![rackup](https://cloud.githubusercontent.com/assets/81055/2811865/88f91cf0-ce35-11e3-9abf-8cd78c540de6.png)
+**unitialized constant IdeaBoxApp (NameError)**
 
 Oh no, looks like rack doesn't know how to find `IdeaBoxApp`
-
-```
-unitialized constant IdeaBoxApp (NameError)
-```
 
 Let's tell rack 
