@@ -12,6 +12,10 @@ source 'https://rubygems.org'
 gem 'sinatra', require: 'sinatra/base'
 ```
 
+![gemfile](https://cloud.githubusercontent.com/assets/81055/2811852/b750b406-ce34-11e3-9ebf-41519cd1e835.gif)
+
+_don't forget to save your file_
+
 ### Download the gems
 
 >
