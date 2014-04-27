@@ -50,7 +50,7 @@ Similar to Treehouse here you will be able to create your own virtual workspaces
 
 ### 5. Build The Project
 
-  1. [Getting Started (on Cloud 9)](https://github.com/dirkkelly/IdeaBox/blob/master/instructions/1-getting-started.md)
+  1. [Getting Started (Cloud 9)](https://github.com/dirkkelly/IdeaBox/blob/master/instructions/1-getting-started.md)
   2. [Recording Ideas](http://tutorials.jumpstartlab.com/projects/idea_box.html#i1:-recording-ideas)
   3. [Editing and Destroying](http://tutorials.jumpstartlab.com/projects/idea_box.html#i2:-editing-and-destroying)
   4. [Refactor!](http://tutorials.jumpstartlab.com/projects/idea_box.html#i3:-refactor!)
