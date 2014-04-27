@@ -25,17 +25,15 @@ rackup
 > 
 **config.ru not found**
 
-#### Create `config.ru`
+#### Create Config File
 
 To start our server we need a configuration file, we'll leave it empty for now.
 
+```ruby
+# config.ru
 ```
-```
 
-![create file](https://cloud.githubusercontent.com/assets/81055/2811901/e0d27758-ce37-11e3-8c0b-d7ebdd81ddf4.png)
-
-
-#### Start Your Server
+![config ru](https://cloud.githubusercontent.com/assets/81055/2811947/f51c8a08-ce39-11e3-987c-5d432b0f1486.gif)
 
 >
 ```
@@ -47,44 +45,46 @@ rackup
 >
 **Missing run or map statement**
 
-#### Update `config.ru`
-
 We've created the config file, but rack doesn't know which app to run. Let's tell it to run **IdeaBoxApp**.
 
-```
+```ruby
+# config.ru
+
 run IdeaBoxApp
 ```
-
-Let's tell it that we want to run an app called **IdeaBoxApp**
 
 >
 ```
 rackup
 ```
 
+>
 **Unitialized constant IdeaBoxApp**
 
 Still no good, looks like we need to create an application called IdeaBoxApp.
 
-#### Create The File `app.rb`
+#### Create Application file.
 
 We're going to create a really simple Sinatra application to get started.
 
-```
+```ruby
+# app.rb
+
 class IdeaBoxApp < Sinatra::Base
 end
 ```
 
-#### Update the file `config.ru`
+We also need to tell rack where to find that file
 
-We need to tell rack where to find that file
+```ruby
+# config.ru 
 
-```
 require './app'
 
 run IdeaBoxApp
 ```
 
+>
 **Uniitialized constant Sinatra**
 
 ### Create the file  `Gemfile`
