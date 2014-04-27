@@ -68,7 +68,7 @@ Still no good, looks like we need to create an application called IdeaBoxApp.
 We're going to create a really simple Sinatra application to get started, let's create an **app.rb** file.
 
 ```ruby
-# app.ry
+# app.rb
 
 class IdeaBoxApp < Sinatra::Base
 end
