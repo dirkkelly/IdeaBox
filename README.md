@@ -40,7 +40,7 @@ To get started you're going to want to create your own copy of this project, doi
 
 ### 3. Sign up for Cloud9 IDE
 
-Similar to Treehouse here you will be able to create your own virtual workspaces. [Cloud9](https://c9.io) IDE is a bit more clever in that it can read 
+Similar to Treehouse here you will be able to create your own virtual workspaces. [Cloud9](https://c9.io) IDE is a bit more clever in that it can read and write to your GitHub profile. It also has a terminal for controlling Git and Ruby.
 
 **Alernatively you can develop on your own machine**. For instructions on setting this up [_read more here_](https://help.github.com/articles/set-up-git)
 
