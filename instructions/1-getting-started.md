@@ -28,6 +28,8 @@ In order to start our server with `rackup` we need a simple configuration file w
 
 #### Create `config.ru`
 
+![create file](https://cloud.githubusercontent.com/assets/81055/2811901/e0d27758-ce37-11e3-8c0b-d7ebdd81ddf4.png)
+
 ```
 ```
 
@@ -40,7 +42,9 @@ rackup
 
 ![missing run statement](https://cloud.githubusercontent.com/assets/81055/2811893/61c9f800-ce37-11e3-982a-bb6c33b14b0e.png)
 
-We've created the file, but still rack doesn't know what to do. **Missing run or map statement**, looks like rack needs to know the name of the file to start
+**Missing run or map statement**
+
+We've created the file, looks like rack needs to know the name of the file though.
 
 #### Update `config.ru`
 
