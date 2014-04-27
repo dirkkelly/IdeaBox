@@ -26,18 +26,7 @@ Github has a lot of videos on YouTube to help you understand both their website 
 
 ### 1. Sign up for Github
 
-First you'll need to sign up for [**Github**](github.com/signup) which is **free** for **open source** projects.
-
-**What Does Open Source Mean?**
-
-> The term **"open source"** software is used by some people to mean more or less the same category as free software. 
-> It is not exactly the same class of software: they accept some licenses that we consider too restrictive, 
-> and there are free software licenses they have not accepted.
-
-> However, the differences in extension of the category are small: nearly all free software is open source,
-> and nearly all open source software is free.
-
-> — [Free Software Foundation](https://www.gnu.org/philosophy/categories.html)
+First you'll need to sign up for [**Github**](github.com/signup) which is **free** for **open source**^ projects.
 
 [_Read more here_](https://help.github.com/articles/signing-up-for-a-new-github-account)
 
@@ -73,15 +62,28 @@ Github is a social network and your encouraged to work with others to discuss pr
 
 [_Read more here_](https://help.github.com/articles/be-social)
 
+## Open Source
+
+This project is Open Source, the information is shared under the Creative Commons License and is completely free for personal use.
+
+> The term **"open source"** software is used by some people to mean more or less the same category as free software. 
+> It is not exactly the same class of software: they accept some licenses that we consider too restrictive, 
+> and there are free software licenses they have not accepted.
+
+> However, the differences in extension of the category are small: nearly all free software is open source,
+> and nearly all open source software is free.
+
+> — [Free Software Foundation](https://www.gnu.org/philosophy/categories.html)
+
 ## License
 
 ### [IdeaBox and Github](github.com/dirkkelly/IdeaBox)
 
-> [![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
+> [![Creative Commons License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 > [Dirk Kelly - 2014](http://tutorials.jumpstartlab.com/projects/idea_box.html)  
 
-> This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+> This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 ### [IdeaBox Project Curriculum](http://tutorials.jumpstartlab.com/projects/idea_box.html)
 
