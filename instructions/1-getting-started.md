@@ -87,20 +87,17 @@ run IdeaBoxApp
 >
 **Uniitialized constant Sinatra**
 
-### Create the file  `Gemfile`
+IdeaBoxApp relies on Sinara so we're going to need to create a Gemfile which specifies this dependency
 
-```
+```ruby
+# Gemfile
+
 source 'https://rubygems.org'
 
 gem 'sinatra', require: 'sinatra/base'
 ```
 
->
-![Gemfile](https://cloud.githubusercontent.com/assets/81055/2811862/4111001a-ce35-11e3-8d97-5e270c70e672.png)
-
-_don't forget to save your file_
-
-### Download the gems with Bundler
+Now let's download those files with the bundle command.
 
 >
 ```
@@ -111,12 +108,8 @@ bundle
 
 ### Start the server from the terminal
 
+
+>
 ```
 rackup
 ```
-
-**unitialized constant IdeaBoxApp (NameError)**
-
-Oh no, looks like rack doesn't know how to find `IdeaBoxApp`
-
-Let's tell rack 
