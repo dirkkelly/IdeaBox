@@ -2,7 +2,13 @@
 
 ## Environment Setup
 
-For this project you will need a **Ruby on Rails** workspace on [**Cloud 9**](http://c9.io/)
+For this project you will need a **Ruby on Rails** workspace on [**Cloud 9**](http://c9.io/).
+
+### Create a project Work
+
+### Start a full terminal
+
+Press **cmd + t** to open a full sreen terminal
 
 ### Create the file  `Gemfile`
 
@@ -12,7 +18,7 @@ source 'https://rubygems.org'
 gem 'sinatra', require: 'sinatra/base'
 ```
 
-![gemfile](https://cloud.githubusercontent.com/assets/81055/2811852/b750b406-ce34-11e3-9ebf-41519cd1e835.gif)
+![Gemfile](https://cloud.githubusercontent.com/assets/81055/2811852/b750b406-ce34-11e3-9ebf-41519cd1e835.gif)
 
 _don't forget to save your file_
 
