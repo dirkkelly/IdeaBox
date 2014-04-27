@@ -171,3 +171,38 @@ In order for the changes to work, you need to reboot your rack server.
 
 ![its_working_star_wars](https://cloud.githubusercontent.com/assets/81055/2811974/a482c38a-ce3b-11e3-833f-23503bb62e8d.gif)
 
+#### Save Our Work to Github
+
+Now it's time to save our work and update Github.
+
+>
+```
+git status
+```
+
+**You should have four unstaged files**
+
+>
+```
+git add Gemfile
+git add Gemfile.lock
+git add config.ru
+git add app.rb
+```
+
+_You can also add all file with `git add -A` where -A means "all unstaged files_
+
+Now we need to commit this work with a message
+
+>
+```
+git commit -m "Created IdeaBox app"
+```
+
+And we need to push all those changes back to Github (refered to as origin)
+
+>
+```
+git push origin
+```
+```
