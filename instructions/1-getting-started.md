@@ -85,6 +85,11 @@ run IdeaBoxApp
 ```
 
 >
+```
+rackup
+```
+
+>
 **Uniitialized constant Sinatra**
 
 IdeaBoxApp relies on Sinara so we're going to need to create a Gemfile which specifies this dependency
