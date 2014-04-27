@@ -49,9 +49,11 @@ To get started you're going to want to create your own copy of this project, doi
 
 [_Read more here_](https://help.github.com/articles/fork-a-repo)
 
-### 3. Set up Git
+### 3. Sign up for Cloud9 IDE
 
-[_Read more here_](https://help.github.com/articles/set-up-git)
+Similar to Treehouse here you will be able to create your own virtual workspaces. [Cloud9](https://c9.io) IDE is a bit more clever in that it can read 
+
+**Alernatively you can develop on your own machine**. For instructions on setting this up [_read more here_](https://help.github.com/articles/set-up-git)
 
 ### 4. Start Working Through the Excercise
 
