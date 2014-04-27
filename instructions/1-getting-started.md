@@ -12,6 +12,13 @@ source 'https://rubygems.org'
 gem 'sinatra', require: 'sinatra/base'
 ```
 
+### Download the gems
+
+>
+```
+bundle
+```
+
 ### Create the file `config.ru`
 
 ```
@@ -34,4 +41,11 @@ class IdeaBoxApp < Sinatra::Base
 
   run! if app_file == $0
 end
+```
+
+### Start the server from the terminal
+
+>
+```
+rackup -p $PORT -o $IP
 ```
