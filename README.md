@@ -47,7 +47,14 @@ Similar to Treehouse here you will be able to create your own virtual workspaces
 
 ### 4. Create a Project Workspace in Cloud9 IDE
 
-### 5. [Get Started](https://github.com/dirkkelly/IdeaBox/blob/master/instructions/1-getting-started.md)
+### 5. Build The Project
+
+  1. [Getting Started](https://github.com/dirkkelly/IdeaBox/blob/master/instructions/1-getting-started.md)
+  2. Recording Ideas
+  3. Editing and Destroying
+  4. Refactor!
+  5. Ranking and Sorting
+  6. Extensions
 
 ### 6. Be Social
 
