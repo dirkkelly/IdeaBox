@@ -62,6 +62,12 @@ As mentioned above we're building an Idea Box, you'll be able to go through thos
 
 Github is a social network and your encouraged to work with others to discuss problems and share solutions to them.
 
+* **Don't understand something?**
+  * [Create an Issue](https://github.com/dirkkelly/IdeaBox/issues)
+* **Found something that's incorrect**
+  * Fix it
+  * [Create a Pull Request](https://github.com/dirkkelly/IdeaBox/issues)
+
 [_Read more here_](https://help.github.com/articles/be-social)
 
 ## License
