@@ -21,7 +21,6 @@ Github has a lot of videos on YouTube to help you understand both their website 
 
 [![Better Together - GitHub Guides Music Video](http://img.youtube.com/vi/qT90jZP58jM/0.jpg)](http://www.youtube.com/watch?v=qT90jZP58jM)
 
-
 ## Getting Started
 
 ### 1. Sign up for Github
@@ -43,6 +42,8 @@ To get started you're going to want to create your own copy of this project, doi
 Similar to Treehouse here you will be able to create your own virtual workspaces. [Cloud9](https://c9.io) IDE is a bit more clever in that it can read and write to your GitHub profile. It also has a terminal for controlling Git and Ruby.
 
 **Alernatively you can develop on your own machine**. For instructions on setting this up [_read more here_](https://help.github.com/articles/set-up-git)
+
+![Cloud 9](https://cloud.githubusercontent.com/assets/81055/2811071/0fff2714-ce02-11e3-81e0-63bcc32528db.png)
 
 ### 4. Start Working Through the Excercise
 
