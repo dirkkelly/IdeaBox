@@ -157,11 +157,17 @@ class IdeaBoxApp < Sinatra::Base
 end
 ```
 
+#### Restart the server
+
+In order for the changes to work, you need to reboot your rack server.
+
 **Protip: You can end the server by press ctrl+c**
 
-### Hello World
+#### Hello World
 
 ![hello world](https://cloud.githubusercontent.com/assets/81055/2811990/0afca1d0-ce3c-11e3-8b2d-2ad751bdb61d.png)
+
+### End of Part One
 
 ![its_working_star_wars](https://cloud.githubusercontent.com/assets/81055/2811974/a482c38a-ce3b-11e3-833f-23503bb62e8d.gif)
 
