@@ -205,4 +205,5 @@ And we need to push all those changes back to Github (refered to as origin)
 ```
 git push origin
 ```
-```
+
+![Github commits](https://cloud.githubusercontent.com/assets/81055/2812019/0697c76c-ce3e-11e3-9482-3a06ed475777.png)
