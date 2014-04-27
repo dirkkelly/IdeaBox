@@ -8,7 +8,7 @@ We're going to be following a project created by JumpStart Lab that will help yo
 
 > [Jump Start Curriculum](http://tutorials.jumpstartlab.com/projects/idea_box.html)
 
-## Welcome to Github!
+## Before We Start
 
 You're viewing this project on Github, a social network for developers from all over the world.
 
@@ -16,8 +16,6 @@ Here they are able to share code with each other and collaborate on ways to impr
 of all languages and function.
 
 We're going to use Github to collaborate on building the IdeaBox project and following through the guide.
-
-## Before We Start
 
 Github has a lot of videos on YouTube to help you understand both their website and Git itself. The video below is an introduction to some of the people at Github and the advantages of Git.
 
