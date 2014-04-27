@@ -21,7 +21,7 @@ Bundler.require
 run IdeaBoxApp
 ```
 
-### Create the file `app.rb`
+### Create the file `app.ry`
 
 ```
 require 'bundler'
