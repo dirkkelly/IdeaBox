@@ -109,10 +109,7 @@ Now let's download those files with the bundle command.
 bundle
 ```
 
-![bundle](https://cloud.githubusercontent.com/assets/81055/2811859/266025d4-ce35-11e3-8969-c2552278a13f.png)
-
-### Start the server from the terminal
-
+![bundle](https://cloud.githubusercontent.com/assets/81055/2811961/fa417a2e-ce3a-11e3-83f6-9593b6b4949a.png)
 
 >
 ```
