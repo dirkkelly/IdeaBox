@@ -4,7 +4,7 @@
 
 The default terminal down the bottom has a tendency to crash, start a full screen terminal to get started.
 
-Press **cmd + t** to open a full sreen terminal
+Press **alt + t** to open a full sreen terminal
 
 ### Hello World
 
